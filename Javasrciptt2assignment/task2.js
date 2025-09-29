@@ -1,0 +1,13 @@
+let v1=3;
+let v2=5;
+let add=v1+v2;
+let sub=v1-v2;
+let product=v1*v2;
+let division=v1/v2;
+let modulo=v1%v2;
+console.log(` Sum of two numbers is ${add}`);
+console.log(" sum of two numbers is "+add);
+console.log(" sub of two numbers is "+sub);
+console.log(" product  of two numbers is "+product);
+console.log(" division of two numbers is "+division);
+console.log(" reminder  of two numbers is "+modulo);

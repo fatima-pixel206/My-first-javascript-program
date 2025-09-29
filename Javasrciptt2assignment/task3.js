@@ -1,0 +1,10 @@
+let a=5;
+console.log(a);
+a++;
+console.log(a);
+a=a+7;
+console.log(a);
+a--;
+console.log(a);
+a=a%3;
+console.log("reminder is:"+a);
